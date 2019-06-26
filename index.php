@@ -1,5 +1,5 @@
 <?php
-$serverName = "192.168.235.32,5180"; 
+$serverName = "182.75.89.80,5180"; 
 
 $uid = "lokesh";   
 
