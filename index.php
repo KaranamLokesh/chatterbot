@@ -43,5 +43,6 @@ $array=array();
     }
 
 } 
-echo json_encode($array)
+ $result =json_encode($array);
+ echo $result;
        ?>
